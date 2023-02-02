@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\bin\Debug\net6.0\ProjectLodging.exe
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\bin\Debug\net6.0\ProjectLodging.deps.json
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\bin\Debug\net6.0\ProjectLodging.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\bin\Debug\net6.0\ProjectLodging.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\bin\Debug\net6.0\ProjectLodging.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\refint\ProjectLodging.dll
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.pdb
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ProjectLodging.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\Estudo Desenvolvimento\basecamp_Csharp\ProjectLodging\obj\Debug\net6.0\ref\ProjectLodging.dll
